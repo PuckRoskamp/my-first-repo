@@ -1,2 +1,3 @@
 # my-first-repo
-![Puck] (img/Puck.jpg)
+![Puck] (img/Puck.jpg.jpg)
+
